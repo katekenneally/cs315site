@@ -45,6 +45,7 @@ body {
 .jumbotron {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
+background-color: #CCCCFF;
 }
 .jumbotron .btn {
   padding: 14px 24px;
@@ -55,6 +56,11 @@ body {
 }
 .jumbotron p {
   font-size: 15px;
+}
+
+.btn-info{
+    background-color: #880085;
+    border: 1px solid #880085;
 }
 
 /* Supporting marketing content */
